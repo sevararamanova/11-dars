@@ -1,0 +1,57 @@
+.card {
+    margin-top: 200px;
+   
+   
+}
+
+.cards__a {
+    display: flex;
+    gap:40px;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #424242;
+
+}
+
+.cards__a a:hover {
+    color: #D05270;
+    text-decoration: underline;
+}
+.cards{
+    margin-top:100px;
+}
+.cards__one {
+   
+    margin-bottom: 70px;
+    display: inline-block;
+    line-height: 24px;
+}
+
+h3 {
+    color: #D05270;
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 10px;
+   
+}
+
+p{
+    color:grey;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+
+.cards__one a{
+    color: #D05270;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+
+.umumiy {
+   display: flex;
+   gap:20px;
+  
+}
